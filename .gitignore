@@ -1,0 +1,9 @@
+/word/.idea/
+/word/.mvn/
+/word/target/
+/word/*.iml
+/word/mvnw
+/word/mvnw.cmd
+
+/wordvue/.idea/
+/wordvue/node_modules/
